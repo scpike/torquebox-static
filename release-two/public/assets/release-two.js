@@ -1,0 +1,1 @@
+window.release = 2;
