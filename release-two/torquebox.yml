@@ -1,2 +1,3 @@
 web:
+  context: /static-test
   static: public
